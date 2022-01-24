@@ -10,6 +10,9 @@ Please contact me at 416-669-6609 or iamstevecho@gmail.com
   CardProcessorService takes input and delegates each line of command to CommandProcessor.
   The CommandProcessor will invoke different transaction handlers based on command type.
   Main motivation is single responsibility based design and ease of test.
+  
+  
+![Blank diagram](https://user-images.githubusercontent.com/63982/150863953-a84e00ea-36ad-4d4e-b220-d5459fb8f40b.png)
 
 ## How to install any required dependencies
   This project requires Ruby 3.0.3 version and Rails 7.0.0 version.
